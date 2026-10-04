@@ -35,6 +35,9 @@ This project demonstrates the implementation of responsive web design techniques
 > *Mobile View:*  
 > <img width="400" height="797" alt="image" src="https://github.com/user-attachments/assets/685b9ed7-9c45-4fdf-b113-1278574d659a" />
 
+<img width="872" height="576" alt="image" src="https://github.com/user-attachments/assets/b1d2cd18-8f6f-4d0e-839a-56f04d5ef819" />
+<img width="532" height="800" alt="image" src="https://github.com/user-attachments/assets/a2c073bf-c006-4028-9e8b-5857169cf0f1" />
+<img width="630" height="653" alt="image" src="https://github.com/user-attachments/assets/63c90e30-7afa-4f33-a0a8-fa0dc3ae08bd" />
 
 ---
 
@@ -52,6 +55,10 @@ This project demonstrates the implementation of responsive web design techniques
 > 
 > *Bootstrap Navbar Mobile Menu (Collapsed/Expanded):*  
 > <img width="462" height="797" alt="image" src="https://github.com/user-attachments/assets/ebe06d79-7c71-4d5b-87fd-fac7ffaf10b6" />
+
+<img width="1272" height="701" alt="image" src="https://github.com/user-attachments/assets/63c09390-d8bf-4680-9aca-4ae6f9ab1d09" />
+<img width="1042" height="742" alt="image" src="https://github.com/user-attachments/assets/369bf51b-c6a4-43fb-8be9-21142fc4ce7e" />
+<img width="566" height="572" alt="image" src="https://github.com/user-attachments/assets/5b0f842d-7944-42a7-a73b-4833fd304f2b" />
 
 ---
 
@@ -74,6 +81,14 @@ The final responsive portfolio page combines all concepts into a unified theme:
 > 
 > *Portfolio Mobile View:*  
 > <img width="465" height="801" alt="image" src="https://github.com/user-attachments/assets/cf32e6b3-db30-4e12-a14c-387345de77a1" />
+
+<img width="1400" height="667" alt="image" src="https://github.com/user-attachments/assets/60dd680e-1b26-4034-b945-894ce2a4d662" />
+<img width="1195" height="713" alt="image" src="https://github.com/user-attachments/assets/6f20564b-a9e1-46d6-979d-1ac62e6354fb" />
+<img width="1388" height="632" alt="image" src="https://github.com/user-attachments/assets/2307d939-b2f6-4012-9945-54195c90eabc" />
+<img width="1037" height="237" alt="image" src="https://github.com/user-attachments/assets/1a3ca980-d610-4705-9d48-a67fd0ef7257" />
+<img width="552" height="796" alt="image" src="https://github.com/user-attachments/assets/5f056d17-4196-4a39-ad9f-f7afb2843a6c" />
+<img width="450" height="820" alt="image" src="https://github.com/user-attachments/assets/5e8d25ca-af25-4012-9fe7-34b819750cb8" />
+<img width="543" height="222" alt="image" src="https://github.com/user-attachments/assets/a8db3554-b11e-4eeb-bbbb-dde880c8f023" />
 
 ---
 
