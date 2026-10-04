@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #0C0304;
+    color: #BFADA8;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.section-title {
+    font-size: 1.6rem;
+    color: #ffffff;
+}
+
+@media (min-width: 768px) {
+    .section-title {
+        font-size: 2.4rem;
+    }
+}
+
+.custom-navbar {
+    background-color: #341114;
+    border-bottom: 1px solid #7E5758;
+}
+
+.project-card {
+    background-color: #341114;
+    border: 1px solid #7E5758;
+    border-radius: 8px;
+    height: 100%;
+}
+
+.project-card h3 {
+    color: #ffffff;
+}
+
+.text-muted-custom {
+    color: #BFADA8;
+    opacity: 0.85;
+}
+
+.btn-custom {
+    background-color: #5D2128;
+    color: #BFADA8;
+    border: 1px solid #7E5758;
+}
+
+.btn-custom:hover {
+    background-color: #7E5758;
+    color: #ffffff;
+}
+
+.sidebar-box {
+    background-color: #341114;
+    border: 1px solid #7E5758;
+    border-radius: 8px;
+}
+
+.sidebar-box h3, .sidebar-box h4 {
+    color: #ffffff;
+}
+
+.divider {
+    border-top: 1px solid #7E5758;
+    opacity: 0.5;
+}
+
+.contact-info li {
+    margin-bottom: 8px;
+}
+
+.custom-footer {
+    background-color: #341114;
+    border-top: 1px solid #7E5758;
+    color: #BFADA8;
+}

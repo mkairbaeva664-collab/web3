@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #0C0304;
+    color: #BFADA8;
+}
+
+.custom-navbar {
+    background-color: #341114;
+    border-bottom: 1px solid #7E5758;
+}
+
+.custom-card {
+    background-color: #5D2128;
+    color: #BFADA8;
+    border-radius: 8px;
+    height: 100%;
+}
+
+.custom-card h3 {
+    color: #ffffff;
+}
